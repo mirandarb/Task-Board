@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+.task-card.overdue {
+  border: 2px solid red;
+  background-color: #f8d7da; /* Light red */
+}
+
+.task-card.nearing {
+  border: 2px solid yellow;
+  background-color: #fff3cd; /* Light yellow */
+}
+
+.task-card.on-time {
+  border: 2px solid green;
+  background-color: #d4edda; /* Light green */
+}
