@@ -62,6 +62,7 @@ script.js: JavaScript file containing functionality for adding, deleting, and ma
 
 ### Links
     https://github.com/mirandarb/Task-Board
+    https://mirandarb.github.io/Task-Board/
 
 
 ### Screenshot
